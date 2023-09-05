@@ -35,5 +35,3 @@ Contributions to improve the model or any other aspect are welcome! Please fork 
 ## License
 MIT License.
 
-## Contact
-[Your Name] - [Your Email] - [Your LinkedIn/GitHub Profile]
